@@ -1,0 +1,7 @@
+Dependências de desenvolvimento:
+npm i tailwindcss postcss autoprefixer -D
+
+PostCss automatiza tarefas dentro do css (quando usado Vite, se integram)
+npx tailwindcss init -p
+
+Componentes são funções que retornam html, formando a interface
